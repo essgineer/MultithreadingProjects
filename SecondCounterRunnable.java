@@ -14,6 +14,7 @@ public SecondCounterRunnable() {
     timeMsg = "never started";
     arcLen = 0;
 }
+    
 public void run() {
     runClock();
 }
