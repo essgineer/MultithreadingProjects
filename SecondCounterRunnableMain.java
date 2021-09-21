@@ -1,7 +1,5 @@
 package sams.Listing43.p40;
 
-
-
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
