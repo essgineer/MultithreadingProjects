@@ -9,7 +9,7 @@ class EvenPrinter implements Runnable {
     public EvenPrinter(Object object) {  
         mutex = object;  
     }  
-  
+   
     public void run() {  
         while (number < 100) {  
             synchronized (mutex) {  
